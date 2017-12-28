@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: GitHub, Python, ESMF, Fortran, C/C++, Linux, NCL, MPI, OpenMP, VTK, ParaView, RDF/OWL, Shell, Java
+percentage: 100, 50, 85, 85, 70, 75, 100, 70, 70, 50, 70, 35, 100, 50

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ufuk Turuncoglu</title>
+    <description>Personal page of Ufuk Turuncoglu</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 28 Dec 2017 14:48:55 +0300</pubDate>
+    <lastBuildDate>Thu, 28 Dec 2017 14:48:55 +0300</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Join me at GTC 2018 !!!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../img/2017-12-28-fig01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I will be presenting on “&lt;strong&gt;A new modeling framework for in-situ visualization integrated in earth system models&lt;/strong&gt;” at NVIDIA’s GPU Technology Conference.&lt;/p&gt;
+
+&lt;p&gt;GTC 2018 takes place March 26 – 29 in Silicon Valley and is the premier AI and deep learning event in the world. At GTC, you’ll connect with thousands of industry experts and thought leaders on many of the most dynamic topics today. See the latest speakers and sessions &lt;a href=&quot;https://2018gputechconf.smarteventscloud.com/connect/search.ww#loadSearch-searchPhrase=&amp;amp;searchType=session&amp;amp;tc=0&amp;amp;sortBy=titleSort&amp;amp;p=&quot;&gt;here&lt;/a&gt; on AI and deep learning, healthcare, big data analytics, virtual reality, self-driving cars, and much more. You can also get valuable hands-on training, meet with NVIDIA experts, and see the latest GPU-powered breakthroughs in computing first-hand.&lt;/p&gt;
+
+&lt;p&gt;Hope to see you there.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Dec 2017 14:34:00 +0300</pubDate>
+        <link>http://localhost:4000/articles/2017-12/GTC2018</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-12/GTC2018</guid>
+        
+        
+        <category>conference</category>
+        
+        <category>visualization</category>
+        
+        <category>NVIDIA</category>
+        
+        <category>IndeX</category>
+        
+      </item>
+    
+  </channel>
+</rss>

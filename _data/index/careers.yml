@@ -1,0 +1,32 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name: Istanbul Technical University, Informatics Institute, Turkey
+  link: http://www.be.itu.edu.tr
+  date: 2012 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Assist. Prof.
+
+- name: The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy
+  link: https://www.ictp.it
+  date: 2011 - 2012
+  job: PostDoc in Earth system Physics Section (SHELL Caspian Sea Project - Predicting future Caspian Sea Level, Coupling RegCM4 with ROMS ocean model etc.)
+
+- name: National Center for Atmospheric Research (NCAR), Boulder, CO, USA
+  link: https://ncar.ucar.edu
+  date: 2008
+  job: TDD ESMI Section ESMF Project (Creating self-describing and standardized workflow-based environment for earth system science applications, Supervisor is Cecelia DeLuca)
+
+- name: Istanbul Technical University, Informatics Institute, Turkey
+  link: http://www.be.itu.edu.tr
+  date: 2005 - 2012
+  job: Research Assistant (HPC Lab System Administrator Group Member, ITU National High Performance Computing Center System Administrator Group Member & Application Support Scientist)
+
+- name: Caretta Training and Consultation, Istanbul, Turkey
+  link: https://www.caretta.net
+  date: 2000 - 2002
+  job: Software Developer (Microsoft based Database Systems, MSQL, MS Access, Visual Basic, ASP.NET based applications)
+
+- name: Ericsson, Turkey 
+  link: 
+  date: 1998 (3 months)
+  job: ESOE (Ericsson Standard Office Environment) & ESGP (Ericsson Standard Groupware Platform) Project Member
