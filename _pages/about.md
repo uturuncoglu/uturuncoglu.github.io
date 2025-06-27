@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: #118</p>
+    <p>Office: 118</p>
     <p>1850 Table Mesa Dr</p>
     <p>Boulder, CO 80305</p>
 
@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ufuk Turuncoglu is currently working as a software engineer at NCAR/CGD. He has a background in Meteorological Engineering, Atmosphere Ocean Sciences and Computational Science and Engineering, has numerous publication in those fields and teaching experience. His main areas of interest are computational simulation of earths system components, air-sea interaction, scientific visualization with in situ techniques, process automation with scientific workflow systems and climate science. He is also interested in the design and development of fully coupled regional and global Earth system models.
+I am currently working as a senior software engineer at NCAR/CGD. I have a background in Meteorological Engineering, Atmosphere Ocean Sciences and Computational Science and Engineering and have numerous publication in those fields and teaching experience. My main areas of interest are computational simulation of Earth system components, air-sea interaction, hydrodynamics of lakes, scientific visualization with in situ techniques (incl. co-processing), process automation with scientific workflow systems, climate science and dynamical downscalling. I am also interested in the design and development of fully coupled regional and global Earth system models
+and curently working on various projects in model development field such as Unified Forecast System (UFS), UFS Weather Model and UFS Coastal.
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
